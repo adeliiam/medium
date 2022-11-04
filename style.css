@@ -1,0 +1,293 @@
+.header{
+    background-color: rgba(255, 166, 0, 0.749);
+    padding: 10px;
+    align-items: center;
+    display: flex;
+
+}
+.logoSaita{
+    margin-left: 300px;
+   
+}
+.menuSaita{
+    margin-left: 600px;
+}
+.menuSaita li{
+    list-style-type: none;
+    margin-left: 25px;
+
+}
+.menuSaita a{
+    text-decoration: none;
+    color: black;
+}
+.menuSaita a:hover{
+    background-color: rgba(255, 166, 0, 0.526);
+    padding: 5px 10px;
+}
+.menuSaita ul{
+    display: flex;
+    margin: 0px;
+}
+#GetStart{
+    color: #fff;
+    background-color: black;
+    padding: 10px 8px;
+    border-radius: 40px;
+}
+.BodySaita{
+    background-color:rgba(255, 166, 0, 0.749); 
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    display: flex;
+    
+}
+.ourGif{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.Bodytext{
+    margin-left: 300px;
+    
+    
+  
+}
+#Stay{
+    font-size: 90px;
+    font-weight: bold;
+    margin-top: 65px;
+}
+#text{
+    font-size: 25px;
+    margin-top: 25px;
+}
+.BodySaita a{
+    text-decoration: none;
+}
+#reading{
+    color: #fff;
+    background-color: black;
+    padding: 10px 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    ;
+}
+.read{
+    margin-top: 45px;
+    
+
+}
+.body2P{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.bx-trending-up{
+    font-size: 20px;
+    border: 1px solid;
+    border-radius: 10px;
+    height: 22px;
+
+}
+#trending{
+    margin-left: 10px;
+}
+.trend{
+    display: flex;
+    font-weight: bold;
+}
+.num{
+    font-size: 35px;
+    font-weight: bold;
+    color: rgba(128, 128, 128, 0.573);
+}
+.riad1{
+    display: flex;
+}
+.riad2{
+    display: flex;
+    margin-top: 55px;
+
+}
+#block {
+    
+    width: 350px;
+    height: 100px;
+    margin-left: 15px;
+}
+.imena{
+    display: flex;
+}
+.fotos{
+    width: 30px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+#f1{
+    background-image: url(images/DraveTroy.png);
+    background-position: center;
+    background-size: cover;
+}
+#f2{
+    background-image: url(images/Brad.jpeg);
+    background-position: center;
+    background-size: cover;
+
+}
+#f3{
+    background-image: url(images/Taleb_mug.JPG);
+    background-position: center;
+    background-size: cover;
+}
+#f4{
+    background-image: url(images/infin.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+#f5{background-image: url(images/TomCooper.jpeg);
+    background-position: center;
+    background-size: cover;
+
+}
+#f6{background-image: url(images/coryDoctorow.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+#imiia{
+    margin-left: 15px;
+    font-weight: bold;
+}
+.opisanie{
+    margin-left: 25px;
+    font-weight: bold;
+}
+.data{
+    margin-left: 25px;
+    font-size: 15px;
+    color: gray;
+
+}
+.Body3{
+    margin-top: 100px;
+    padding-bottom: 80px;
+    border: 1px solid;
+    display: flex;
+}
+.body3P{
+    margin-left: 250px;
+    margin-top: 50px;
+
+}
+#ramki{
+    width: 500px;
+    height: 200px;
+   
+    margin-bottom: 50px;
+}
+.kartinok{
+    width: 250px;
+    height: 150px;
+    border: 1px solid;
+    
+    margin-top: 20px;
+}
+#k1{
+    background-image: url(images/k1.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+#k2{
+    background-image: url(images/k2.png);
+    background-position: center;
+    background-size: cover;
+
+}
+#k3{background-position: url(images/k2.png);
+    background-position: center;
+    background-size: cover;
+}
+#k4{background-image: url(images/k4.png);
+    background-position: center;
+    background-size: cover;
+
+}
+.katar{
+    display: flex;
+}
+.opisanie1{
+    font-size: 20px;
+}
+.texts{
+    margin-left: 25px;
+    font-size: 15px;
+    color: gray;
+}
+.tablicaP{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#discover{
+    font-weight: bold;
+    margin-left: 40px;
+}
+.ssylki ul{
+    display: flex;
+}
+.ssylki li{
+    list-style-type: none;
+    margin-left: 15px;
+
+}
+.ssylki a{
+    text-decoration: none;
+    color: gray;
+    font-size: 15px;
+    
+}
+#ramka{
+    width: 150px;
+    height: 30px;
+    border: 1px solid;
+    padding: 5px 3px;
+    border-color: rgba(128, 128, 128, 0.769);
+}
+.liniia{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.Help ul{
+    display: flex;
+}
+.Help li{
+    list-style-type: none;
+    margin-left: 30px;
+}
+.Help a{
+    text-decoration: none;
+    color: gray;
+    font-size: 15px;
+}
+.Terms ul{
+    display: flex;
+}
+.Terms li{
+    list-style-type: none;
+    margin-left: 30px;
+}
+.Terms a{
+    text-decoration: none;
+    color: gray;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+

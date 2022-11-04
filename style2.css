@@ -1,0 +1,177 @@
+*{
+    margin-top:0px;
+    margin-left: 0px;
+}
+
+.head{
+    border: 1px solid;
+    padding-bottom: 15px;
+    
+    
+}
+.headP{
+    margin-top: 30px;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+}
+.menuHead{
+    margin-left: 750px;
+}
+.menuHead ul{
+    display: flex;
+    margin-top: 0px;
+}
+.menuHead li{
+    list-style-type: none;
+    margin-left: 30px;
+}
+.menuHead a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+
+}
+.menuHead a:hover{
+    text-decoration: underline;
+}
+#GetStart{
+    background-color: black;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 50px;
+}
+.body1{
+    border: 1px solid;
+
+}
+.body1P{
+    margin-top: 150px; 
+    font-size: 120px;
+    text-align: center;
+    
+}
+.body2{
+    border: 1px solid;
+    padding-bottom: 80px;
+}
+.body2P{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 90px;
+    font-size: 25px;
+}
+.text{
+    width: 50%;
+}
+.GIF{
+    width: 50%;
+
+}
+#gif{
+    text-align: center;
+    margin-top: 150px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.body3{
+    background-color: #ffd1b9;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    border: 1px solid;
+}
+.body3P{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+#aLiving{
+    font-size: 110px;
+    text-align: center;
+    font-weight: bold;
+}
+#Anyone{
+    font-size: 25px;
+    text-align: center;
+    
+}
+.people{
+    margin-top: 140px;
+}
+
+.row1 ul{
+    display: flex;
+}
+.row1 li{
+    list-style-type: none;
+    margin-left: 15px;
+}
+.row1 a{
+    text-decoration: none;
+    color: black;
+}
+#ramka{
+    width: 600px;
+    height: 130px;
+    
+}
+.imena{
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+#f1{
+    background-position: center;
+    background-size: cover;
+    background-image: url(images/erica.webp);
+}
+#f2{
+    background-position: center;
+    background-size: cover;
+    background-image: url(images/Devon-Price.jpg);
+}
+#f3{
+    background-position: center;
+    background-size: cover;
+    background-image: url(images/GEN.png);
+}
+#name{
+    margin-left: 150px;
+    margin-top: 27px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.footerP{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 100px;
+}
+#medium{
+    font-size: 90px;
+    text-align: center;
+    font-weight: bold;
+}
+.terms ul{
+    display: flex;
+
+}
+.terms{
+    margin-left: 120px;
+
+}
+.terms a{
+    color: black;
+    font-size: 15px;
+}
+.terms li{
+    list-style-type: none;
+    margin-left: 100px;
+}
+
+
+
+
